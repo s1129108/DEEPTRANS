@@ -1,6 +1,6 @@
 # DEEPTRANS: Accurate Classification of Primary Active Transport Proteins Using RAG-Enhanced PLMs and MSCNN
 
-![Workflow](images/workflow.png)
+![Workflow](workflow.png)
 
 ---
 
