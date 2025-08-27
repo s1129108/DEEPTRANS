@@ -46,4 +46,4 @@ Le Van The – therystudy1993@gmail.com
 ## Web-server
 http://140.138.155.233:3000
 Alternative link:
-https://c363f2da4ee8.ngrok-free.app (Forwarding to above link)
+https://eabd8d995afe.ngrok-free.app (Forwarding to above link)
